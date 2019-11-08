@@ -51,11 +51,11 @@ let s:REGEXP_AUTO = '\%('
 
 
 call textobj#user#plugin('datetime', {
-\      'auto': {'select': ['ada', 'ida'], '*pattern*': s:REGEXP_AUTO},
-\      'full': {'select': ['adf', 'idf'], '*pattern*': s:REGEXP_FULL},
-\      'date': {'select': ['add', 'idd'], '*pattern*': s:REGEXP_DATE},
-\      'time': {'select': ['adt', 'idt'], '*pattern*': s:REGEXP_TIME},
-\      'tz': {'select': ['adz', 'idz'], '*pattern*': s:REGEXP_TZ},
+\      'auto': {'select': ['ata', 'ita'], '*pattern*': s:REGEXP_AUTO},
+\      'full': {'select': ['atf', 'itf'], '*pattern*': s:REGEXP_FULL},
+\      'date': {'select': ['atd', 'itd'], '*pattern*': s:REGEXP_DATE},
+\      'time': {'select': ['att', 'itt'], '*pattern*': s:REGEXP_TIME},
+\      'tz': {'select': ['atz', 'itz'], '*pattern*': s:REGEXP_TZ},
 \    })
 
 
