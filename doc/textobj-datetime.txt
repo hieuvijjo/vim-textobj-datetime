@@ -93,17 +93,17 @@ loaded (e.g. in $MYVIMRC).  You can also use
 
 	{lhs}	{rhs}				~
 	-----	---------------------------	~
-	ada	<Plug>(textobj-datetime-auto)
-	add	<Plug>(textobj-datetime-date)
-	adf	<Plug>(textobj-datetime-full)
-	adt	<Plug>(textobj-datetime-time)
-	adz	<Plug>(textobj-datetime-tz)
+	ata	<Plug>(textobj-datetime-auto)
+	atd	<Plug>(textobj-datetime-date)
+	atf	<Plug>(textobj-datetime-full)
+	att	<Plug>(textobj-datetime-time)
+	atz	<Plug>(textobj-datetime-tz)
 
-	ida	<Plug>(textobj-datetime-auto)
-	idd	<Plug>(textobj-datetime-date)
-	idf	<Plug>(textobj-datetime-full)
-	idt	<Plug>(textobj-datetime-time)
-	idz	<Plug>(textobj-datetime-tz)
+	ita	<Plug>(textobj-datetime-auto)
+	itd	<Plug>(textobj-datetime-date)
+	itf	<Plug>(textobj-datetime-full)
+	itt	<Plug>(textobj-datetime-time)
+	itz	<Plug>(textobj-datetime-tz)
 
 Note that there is no difference between a{x} and i{x}.
 
